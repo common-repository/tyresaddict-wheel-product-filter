@@ -1,0 +1,116 @@
+# Copyright (C) 2020 TyresAddict
+# This file is distributed under the same license as the TyresAddict - Wheel Product Filter plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: TyresAddict - Wheel Product Filter 1.4.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tyresaddict-wheel-product-filter\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-06-16T00:38:13+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. Plugin Name of the plugin
+msgid "TyresAddict - Wheel Product Filter"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://b2b.tyresaddict.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "The Wheel Product Filter for WooCommerce shops. Search wheels by size, type and other parameters. Use wheel metadata for filtering, works better with Tyre Custom Metadata plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "TyresAddict"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.tyresaddict.com"
+msgstr ""
+
+#: includes/DB.php:20
+msgid "Alloy"
+msgstr ""
+
+#: includes/DB.php:21
+msgid "Forged"
+msgstr ""
+
+#: includes/DB.php:22
+msgid "Steel"
+msgstr ""
+
+#: includes/DB.php:46
+msgid "Less than 0"
+msgstr ""
+
+#: includes/DB.php:52
+msgid "More than 50"
+msgstr ""
+
+#: includes/FilterWidget.php:28
+msgid "TyresAddict Wheel Product Filter"
+msgstr ""
+
+#: includes/FilterWidget.php:29
+msgid "TyresAddict Wheel Product Filter. Wheels by Size and Parameters"
+msgstr ""
+
+#: includes/FilterWidget.php:128
+#: templates/filter-white.php:104
+msgid "Find Wheels"
+msgstr ""
+
+#: includes/FilterWidget.php:135
+msgid "Title:"
+msgstr ""
+
+#: includes/FilterWidget.php:140
+msgid "Work and show only in category:"
+msgstr ""
+
+#: templates/filter-white.php:9
+msgid "Wheel Size"
+msgstr ""
+
+#: templates/filter-white.php:12
+msgid "Rim Width"
+msgstr ""
+
+#: templates/filter-white.php:21
+msgid "Rim Diameter"
+msgstr ""
+
+#: templates/filter-white.php:30
+msgid "Bolt Pattern / PCD"
+msgstr ""
+
+#: templates/filter-white.php:39
+msgid "Center Bore"
+msgstr ""
+
+#: templates/filter-white.php:48
+msgid "Offset"
+msgstr ""
+
+#: templates/filter-white.php:59
+msgid "Wheel Type"
+msgstr ""
+
+#: templates/filter-white.php:67
+#: templates/filter-white.php:89
+msgid "All"
+msgstr ""
+
+#: templates/filter-white.php:82
+msgid "Wheel Brand"
+msgstr ""
+
+#: templates/filter-white.php:105
+msgid "Reset"
+msgstr ""

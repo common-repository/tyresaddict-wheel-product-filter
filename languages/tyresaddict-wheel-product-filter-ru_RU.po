@@ -1,0 +1,263 @@
+# Copyright (C) 2020 TyresAddict
+# This file is distributed under the same license as the TyresAddict - Wheel Product Filter plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: TyresAddict - Wheel Product Filter 1.4.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tyresaddict-wheel-product-filter\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-06-16T00:38:14+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. Plugin Name of the plugin
+msgid "TyresAddict - Wheel Product Filter"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://b2b.tyresaddict.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "The Wheel Product Filter for shops. Search wheels by size, season and other parameters. Use wheel metadata for filtering, works better with Tyre Custom Metadata plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "TyresAddict"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.tyresaddict.com"
+msgstr ""
+
+#: includes/DB.php:22
+#: includes/DB.php:20
+msgid "Alloy"
+msgstr ""
+
+#: includes/DB.php:23
+#: includes/DB.php:21
+msgid "Forged"
+msgstr ""
+
+#: includes/DB.php:24
+#: includes/DB.php:22
+msgid "Steel"
+msgstr ""
+
+#: includes/DB.php:46
+#: includes/DB.php:48
+msgid "Less than 0"
+msgstr ""
+
+#: includes/DB.php:52
+#: includes/DB.php:54
+msgid "More than 50"
+msgstr ""
+
+#: includes/DB.php:76
+#: includes/DB.php:78
+msgid "None"
+msgstr ""
+
+#: includes/DB.php:77
+#: includes/DB.php:79
+msgid "Tuple"
+msgstr ""
+
+#: includes/DB.php:78
+#: includes/DB.php:80
+msgid "Wide"
+msgstr ""
+
+#: includes/DB.php:79
+#: includes/DB.php:81
+msgid "Wide-Tuple"
+msgstr ""
+
+#: includes/DB.php:80
+#: includes/DB.php:82
+msgid "2-Layer"
+msgstr ""
+
+#: includes/DB.php:81
+#: includes/DB.php:83
+msgid "Twist"
+msgstr ""
+
+#: includes/DB.php:82
+#: includes/DB.php:84
+msgid "Tree"
+msgstr ""
+
+#: includes/DB.php:83
+#: includes/DB.php:85
+msgid "Star"
+msgstr ""
+
+#: includes/DB.php:84
+#: includes/DB.php:86
+msgid "A-Lot"
+msgstr ""
+
+#: includes/DB.php:85
+#: includes/DB.php:87
+msgid "Holes"
+msgstr ""
+
+#: includes/FilterWidget.php:30
+#: includes/FilterWidget.php:28
+msgid "TyresAddict Wheel Product Filter Pro"
+msgstr ""
+
+#: includes/FilterWidget.php:31
+#: includes/FilterWidget.php:29
+msgid "TyresAddict Woo Wheel Product Filter Pro. Wheels by Size and Parameters"
+msgstr ""
+
+#: includes/FilterWidget.php:134
+#: templates/filter-white.php:144
+#: includes/FilterWidget.php:136
+#: templates/filter-white.php:146
+#: includes/FilterWidget.php:128
+#: templates/filter-white.php:104
+msgid "Find Wheels"
+msgstr ""
+
+#: includes/FilterWidget.php:141
+#: includes/FilterWidget.php:143
+#: includes/FilterWidget.php:135
+msgid "Title:"
+msgstr ""
+
+#: includes/FilterWidget.php:146
+#: includes/FilterWidget.php:148
+#: includes/FilterWidget.php:140
+msgid "Work and show only in category:"
+msgstr ""
+
+#: templates/filter-white.php:9
+msgid "Wheel Size"
+msgstr ""
+
+#: templates/filter-white.php:12
+msgid "Rim Width"
+msgstr ""
+
+#: templates/filter-white.php:21
+msgid "Rim Diameter"
+msgstr ""
+
+#: templates/filter-white.php:30
+msgid "Bolt Pattern / PCD"
+msgstr ""
+
+#: templates/filter-white.php:39
+msgid "Center Bore"
+msgstr ""
+
+#: templates/filter-white.php:48
+msgid "Offset"
+msgstr ""
+
+#: templates/filter-white.php:59
+msgid "Wheel Type"
+msgstr ""
+
+#: templates/filter-white.php:67
+#: templates/filter-white.php:88
+#: templates/filter-white.php:108
+#: templates/filter-white.php:129
+#: templates/filter-white.php:89
+#: templates/filter-white.php:109
+#: templates/filter-white.php:131
+msgid "All"
+msgstr ""
+
+#: templates/filter-white.php:82
+#: templates/filter-white.php:83
+msgid "Spokes"
+msgstr ""
+
+#: templates/filter-white.php:102
+#: templates/filter-white.php:103
+msgid "Spokes Style"
+msgstr ""
+
+#: templates/filter-white.php:122
+#: templates/filter-white.php:124
+#: templates/filter-white.php:82
+msgid "Wheel Brand"
+msgstr ""
+
+#: templates/filter-white.php:145
+#: templates/filter-white.php:147
+#: templates/filter-white.php:105
+msgid "Reset"
+msgstr ""
+
+#: includes/FeatureProMenu.php:29
+#: includes/FeatureProMenu.php:30
+msgid "Tyres & Wheels"
+msgstr ""
+
+#: includes/PageOptions.php:38
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/PageOptions.php:44
+#: includes/PageOptions.php:168
+msgid "Wheel Product Filter Pro Options"
+msgstr ""
+
+#: includes/PageOptions.php:84
+msgid "Global settings"
+msgstr ""
+
+#: includes/PageOptions.php:91
+msgid "Integration with TyresAddict Finder"
+msgstr ""
+
+#: includes/PageOptions.php:99
+msgid "UI options"
+msgstr ""
+
+#: includes/PageOptions.php:140
+msgid "Show garage from Finder"
+msgstr ""
+
+#: includes/PageOptions.php:146
+msgid "Show spokes filters (spokes & style)"
+msgstr ""
+
+#: includes/PageOptions.php:162
+msgid "Wheel Product Filter Pro options"
+msgstr ""
+
+#: includes/PageOptions.php:163
+#: includes/PageOptions.php:169
+msgid "Wheel Filter <span style=\"opacity:0.5;\">Pro</span>"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "TyresAddict - Wheel Product Filter for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "The Wheel Product Filter for shops. Search wheels by size, type and other parameters. Use wheel metadata for filtering, works better with Tyre Custom Metadata plugin."
+msgstr ""
+
+#. Description of the plugin
+msgid "The Wheel Product Filter for WooCommerce shops. Search wheels by size, type and other parameters. Use wheel metadata for filtering, works better with Tyre Custom Metadata plugin."
+msgstr ""
+
+#: includes/FilterWidget.php:28
+msgid "TyresAddict Wheel Product Filter"
+msgstr ""
+
+#: includes/FilterWidget.php:29
+msgid "TyresAddict Wheel Product Filter. Wheels by Size and Parameters"
+msgstr ""
